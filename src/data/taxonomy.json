@@ -1,0 +1,78 @@
+{
+  "portal": "Discover Brazil",
+  "lang": "en",
+  "schema_version": "v1",
+  "updated": "2026-05-16",
+  "source": "Sprint 0d Trindade (Codex 21:33 BRT + Claude 20:30 BRT)",
+  "eixos": {
+    "regions": {
+      "label": "Regions",
+      "tags": [
+        { "slug": "amazon", "label": "Amazon" },
+        { "slug": "northeast", "label": "Northeast" },
+        { "slug": "southeast", "label": "Southeast" },
+        { "slug": "south", "label": "South" },
+        { "slug": "central-west", "label": "Central-West" }
+      ]
+    },
+    "states-cities": {
+      "label": "States & Cities",
+      "tags": [
+        { "slug": "rio-de-janeiro", "label": "Rio de Janeiro" },
+        { "slug": "bahia", "label": "Bahia" },
+        { "slug": "pernambuco", "label": "Pernambuco" },
+        { "slug": "amazonas", "label": "Amazonas" },
+        { "slug": "para", "label": "Pará" },
+        { "slug": "minas-gerais", "label": "Minas Gerais" },
+        { "slug": "sao-paulo", "label": "São Paulo" },
+        { "slug": "parana", "label": "Paraná" },
+        { "slug": "santa-catarina", "label": "Santa Catarina" },
+        { "slug": "ceara", "label": "Ceará" }
+      ]
+    },
+    "experiences": {
+      "label": "Experiences",
+      "tags": [
+        { "slug": "beaches", "label": "Beaches" },
+        { "slug": "historic-towns", "label": "Historic Towns" },
+        { "slug": "food", "label": "Food" },
+        { "slug": "music", "label": "Music" },
+        { "slug": "festivals", "label": "Festivals" },
+        { "slug": "nature", "label": "Nature & Ecotourism" },
+        { "slug": "city-life", "label": "City Life" },
+        { "slug": "museums", "label": "Museums" },
+        { "slug": "nightlife", "label": "Nightlife" }
+      ]
+    },
+    "travel-planning": {
+      "label": "Travel Planning",
+      "tags": [
+        { "slug": "hotels", "label": "Hotels" },
+        { "slug": "resorts", "label": "Resorts" },
+        { "slug": "rentals", "label": "Rentals & Airbnb" },
+        { "slug": "routes", "label": "Routes" },
+        { "slug": "airports", "label": "Airports" },
+        { "slug": "safety", "label": "Safety" },
+        { "slug": "best-season", "label": "Best Season" }
+      ]
+    },
+    "visual-stories": {
+      "label": "Visual Stories",
+      "tags": [
+        { "slug": "photo-essays", "label": "Photo Essays" },
+        { "slug": "short-videos", "label": "Short Videos" },
+        { "slug": "maps", "label": "Maps" },
+        { "slug": "itineraries", "label": "Itineraries" }
+      ]
+    }
+  },
+  "editorial_guideline": "Discover Brazil is the most visual satellite. Every story should have a strong hero image, gallery when possible, map/route when relevant, and useful text for foreign travelers. Hero curation must respect image rights (Wikimedia Commons, official tourism boards, CC-licensed Flickr, own bank). AI-generated images only as last resort.",
+  "image_sources_priority": [
+    "Banco próprio Cafezinho/Rio Carta",
+    "Wikimedia Commons (CC/PD verified)",
+    "Pexels/Unsplash API (with attribution)",
+    "Public tourism boards (Embratur, Visit Brasil, Min Turismo, state secretariats)",
+    "Flickr CC-BY / CC-BY-SA",
+    "Qwen Image (last resort, ai-generated license)"
+  ]
+}

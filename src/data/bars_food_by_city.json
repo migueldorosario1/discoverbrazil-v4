@@ -1,0 +1,578 @@
+{
+  "schema_version": "v1",
+  "updated": "2026-05-17",
+  "source": "Claude curadoria Força-tarefa AG 2026-05-17",
+  "license": "Curated editorial list — verify operating status before publication",
+  "cities": [
+    {
+      "slug": "rio-de-janeiro",
+      "name": "Rio de Janeiro",
+      "state": "RJ",
+      "lang_local": "pt-br",
+      "menu_label_en": "Rio de Janeiro",
+      "venues": [
+        {
+          "slug": "confeitaria-colombo",
+          "name": "Confeitaria Colombo",
+          "type": "cafe",
+          "neighborhood": "Centro",
+          "tradition": "Belle Époque since 1894; tile and mirror ensemble; pastries and afternoon tea",
+          "highlight": "patrimonio"
+        },
+        {
+          "slug": "garota-de-ipanema",
+          "name": "Garota de Ipanema",
+          "type": "boteco",
+          "neighborhood": "Ipanema",
+          "tradition": "Where Tom Jobim and Vinicius wrote The Girl from Ipanema; petisco + chopp",
+          "highlight": "patrimonio_musical"
+        },
+        {
+          "slug": "bar-do-mineiro",
+          "name": "Bar do Mineiro",
+          "type": "boteco",
+          "neighborhood": "Santa Teresa",
+          "tradition": "Mineira cuisine on cobblestone hill, classic feijoada Saturdays",
+          "highlight": "regional_mineira"
+        },
+        {
+          "slug": "aprazivel",
+          "name": "Aprazível",
+          "type": "restaurant",
+          "neighborhood": "Santa Teresa",
+          "tradition": "Contemporary Brazilian, panoramic Guanabara Bay view, garden seating",
+          "highlight": "vista_contemporanea"
+        },
+        {
+          "slug": "cervantes",
+          "name": "Bar Cervantes",
+          "type": "lanchonete",
+          "neighborhood": "Copacabana",
+          "tradition": "Iconic 24h sandwich joint, pineapple-on-meat invention since 1960s",
+          "highlight": "sanduiche_classico"
+        },
+        {
+          "slug": "olympe",
+          "name": "Olympe",
+          "type": "fine-dining",
+          "neighborhood": "Lagoa",
+          "tradition": "Chef Claude Troisgros — French-Brazilian fusion temple",
+          "highlight": "alta_gastronomia"
+        },
+        {
+          "slug": "lasai",
+          "name": "Lasai",
+          "type": "fine-dining",
+          "neighborhood": "Botafogo",
+          "tradition": "Chef Rafa Costa e Silva; farm-to-table; vegetable-forward Brazilian",
+          "highlight": "alta_gastronomia"
+        }
+      ]
+    },
+    {
+      "slug": "sao-paulo",
+      "name": "São Paulo",
+      "state": "SP",
+      "lang_local": "pt-br",
+      "menu_label_en": "São Paulo",
+      "venues": [
+        {
+          "slug": "dom",
+          "name": "D.O.M.",
+          "type": "fine-dining",
+          "neighborhood": "Jardins",
+          "tradition": "Chef Alex Atala; Amazon ingredients; 50 Best Restaurants alumni",
+          "highlight": "alta_gastronomia_amazonica"
+        },
+        {
+          "slug": "mocoto",
+          "name": "Mocotó",
+          "type": "restaurant",
+          "neighborhood": "Vila Medeiros",
+          "tradition": "Chef Rodrigo Oliveira; Northeastern cuisine, World's Best by Restaurant Magazine",
+          "highlight": "regional_nordestina"
+        },
+        {
+          "slug": "casa-do-porco",
+          "name": "A Casa do Porco",
+          "type": "restaurant",
+          "neighborhood": "Centro",
+          "tradition": "Chef Jefferson Rueda; pork-driven menu; Top 50 LatAm constantly",
+          "highlight": "alta_gastronomia_porco"
+        },
+        {
+          "slug": "mani",
+          "name": "Maní",
+          "type": "fine-dining",
+          "neighborhood": "Jardim Paulistano",
+          "tradition": "Chef Helena Rizzo; Best Female Chef World 2014; Brazilian contemporary",
+          "highlight": "alta_gastronomia_contemporanea"
+        },
+        {
+          "slug": "mercado-municipal",
+          "name": "Mercado Municipal (Sanduíche de Mortadela)",
+          "type": "market",
+          "neighborhood": "Centro",
+          "tradition": "Art-deco market since 1933; mortadella sandwich at Hocca Bar / Bar do Mané ritual",
+          "highlight": "patrimonio_arquitetonico"
+        },
+        {
+          "slug": "z-deli",
+          "name": "Z Deli",
+          "type": "deli",
+          "neighborhood": "Jardim Paulista",
+          "tradition": "Authentic NY-style pastrami; Jewish-Paulistano fusion",
+          "highlight": "deli_judaico"
+        },
+        {
+          "slug": "estadao",
+          "name": "Bar Estadão",
+          "type": "boteco",
+          "neighborhood": "Centro",
+          "tradition": "24h since 1968; pernil sandwich, journalists' hangout",
+          "highlight": "boteco_historico"
+        }
+      ]
+    },
+    {
+      "slug": "salvador",
+      "name": "Salvador",
+      "state": "BA",
+      "lang_local": "pt-br",
+      "menu_label_en": "Salvador",
+      "venues": [
+        {
+          "slug": "casa-de-tereza",
+          "name": "Casa de Tereza",
+          "type": "restaurant",
+          "neighborhood": "Rio Vermelho",
+          "tradition": "Chef Tereza Paim; moqueca and bahiana home cuisine",
+          "highlight": "regional_bahiana"
+        },
+        {
+          "slug": "yemanja",
+          "name": "Yemanjá",
+          "type": "restaurant",
+          "neighborhood": "Itaigara",
+          "tradition": "Classic Bahian cuisine since 1971; moqueca de siri-mole, vatapá",
+          "highlight": "regional_bahiana"
+        },
+        {
+          "slug": "acaraje-cira",
+          "name": "Acarajé da Cira",
+          "type": "street-food",
+          "neighborhood": "Rio Vermelho",
+          "tradition": "Iconic acarajé stand; Largo Santana, baianas in white",
+          "highlight": "patrimonio_imaterial"
+        },
+        {
+          "slug": "maria-mata-mouro",
+          "name": "Maria Mata Mouro",
+          "type": "restaurant",
+          "neighborhood": "Pelourinho",
+          "tradition": "Historic Pelourinho location; Portuguese-Bahian fusion in colonial townhouse",
+          "highlight": "patrimonio_pelourinho"
+        },
+        {
+          "slug": "paraiso-tropical",
+          "name": "Paraíso Tropical",
+          "type": "restaurant",
+          "neighborhood": "Cabula",
+          "tradition": "Chef Beto Pimentel's own farm; ingredient-driven Bahian",
+          "highlight": "regional_organica"
+        },
+        {
+          "slug": "amado",
+          "name": "Amado",
+          "type": "fine-dining",
+          "neighborhood": "Comércio",
+          "tradition": "Bay-front contemporary; Edinho Engel; Pelourinho-meets-modernist",
+          "highlight": "vista_contemporanea"
+        }
+      ]
+    },
+    {
+      "slug": "recife-olinda",
+      "name": "Recife & Olinda",
+      "state": "PE",
+      "lang_local": "pt-br",
+      "menu_label_en": "Recife & Olinda",
+      "venues": [
+        {
+          "slug": "leite",
+          "name": "Restaurante Leite",
+          "type": "restaurant",
+          "neighborhood": "Santo Antônio (Recife)",
+          "tradition": "Oldest restaurant in Brazil still in operation, since 1882; cabidela, peixada",
+          "highlight": "patrimonio_historico"
+        },
+        {
+          "slug": "oficina-do-sabor",
+          "name": "Oficina do Sabor",
+          "type": "restaurant",
+          "neighborhood": "Carmo (Olinda)",
+          "tradition": "Chef Cesar Santos; Pernambuco-driven menu in colonial Olinda townhouse",
+          "highlight": "regional_pernambucana"
+        },
+        {
+          "slug": "camarada-camarao",
+          "name": "Camarada Camarão",
+          "type": "restaurant",
+          "neighborhood": "Boa Viagem (Recife)",
+          "tradition": "Beachfront seafood institution; camarão na moranga",
+          "highlight": "frutos_do_mar"
+        },
+        {
+          "slug": "bargaco",
+          "name": "Bargaço",
+          "type": "restaurant",
+          "neighborhood": "Pina (Recife)",
+          "tradition": "Bahian-Pernambucan moqueca, casual beachside since 1960s",
+          "highlight": "frutos_do_mar"
+        },
+        {
+          "slug": "boteco-rua",
+          "name": "Boteco Pernambuco",
+          "type": "boteco",
+          "neighborhood": "Recife Antigo",
+          "tradition": "Boteco com música ao vivo no Marco Zero; brejeira regional",
+          "highlight": "boteco_centro_historico"
+        },
+        {
+          "slug": "cantinho-da-se",
+          "name": "Cantinho da Sé",
+          "type": "boteco",
+          "neighborhood": "Sé (Olinda)",
+          "tradition": "Tradicional petiscaria de Olinda, vista do mar; carnaval",
+          "highlight": "regional_olinda"
+        }
+      ]
+    },
+    {
+      "slug": "belo-horizonte",
+      "name": "Belo Horizonte",
+      "state": "MG",
+      "lang_local": "pt-br",
+      "menu_label_en": "Belo Horizonte",
+      "venues": [
+        {
+          "slug": "glouton",
+          "name": "Glouton",
+          "type": "fine-dining",
+          "neighborhood": "Funcionários",
+          "tradition": "Chef Leo Paixão; refined Mineiro contemporary; Best Restaurant Brazil cited",
+          "highlight": "alta_gastronomia_mineira"
+        },
+        {
+          "slug": "bar-do-salomao",
+          "name": "Bar do Salomão",
+          "type": "boteco",
+          "neighborhood": "Lourdes",
+          "tradition": "Vatapá no sábado; boteco tradicional desde 1958",
+          "highlight": "boteco_historico"
+        },
+        {
+          "slug": "mercado-central-bh",
+          "name": "Mercado Central",
+          "type": "market",
+          "neighborhood": "Centro",
+          "tradition": "1929 market hall; vermouth ritual + tira-gosto + cachaça lojas",
+          "highlight": "patrimonio_mercado"
+        },
+        {
+          "slug": "cantina-do-lucas",
+          "name": "Cantina do Lucas",
+          "type": "boteco",
+          "neighborhood": "Funcionários (Maletta)",
+          "tradition": "Edifício Maletta basement; intelectual hangout desde 1969",
+          "highlight": "boteco_cultural"
+        },
+        {
+          "slug": "xapuri",
+          "name": "Xapuri",
+          "type": "restaurant",
+          "neighborhood": "Pampulha",
+          "tradition": "Cozinha mineira em fazenda urbana; fogão a lenha",
+          "highlight": "regional_mineira"
+        },
+        {
+          "slug": "casa-cheia",
+          "name": "Casa Cheia",
+          "type": "restaurant",
+          "neighborhood": "Mercado Central",
+          "tradition": "Comida mineira no segundo piso do Mercado; angu à baiana",
+          "highlight": "regional_mercado"
+        }
+      ]
+    },
+    {
+      "slug": "florianopolis",
+      "name": "Florianópolis",
+      "state": "SC",
+      "lang_local": "pt-br",
+      "menu_label_en": "Florianópolis",
+      "venues": [
+        {
+          "slug": "ostradamus",
+          "name": "Ostradamus",
+          "type": "restaurant",
+          "neighborhood": "Ribeirão da Ilha",
+          "tradition": "Chef Jaime Barcelos; ostras cultivadas no próprio quintal; Santa Catarina seafood capital",
+          "highlight": "frutos_do_mar"
+        },
+        {
+          "slug": "box-32",
+          "name": "Box 32 (Mercado Público)",
+          "type": "boteco",
+          "neighborhood": "Centro (Mercado)",
+          "tradition": "Box do mercado público desde 1898; caldinho de feijão + pastel de camarão",
+          "highlight": "boteco_mercado"
+        },
+        {
+          "slug": "quintal-do-mineiro",
+          "name": "Quintal do Mineiro",
+          "type": "restaurant",
+          "neighborhood": "Lagoa da Conceição",
+          "tradition": "Mineira na ilha; tradição familiar; ambiente rústico",
+          "highlight": "regional_mineira_diaspora"
+        },
+        {
+          "slug": "rita-maria",
+          "name": "Rita Maria",
+          "type": "restaurant",
+          "neighborhood": "Centro (mercado)",
+          "tradition": "Frutos do mar tradicional; quase 50 anos de operação",
+          "highlight": "frutos_do_mar_tradicao"
+        },
+        {
+          "slug": "casa-acoriana",
+          "name": "Casa Açoriana",
+          "type": "restaurant",
+          "neighborhood": "Santo Antônio de Lisboa",
+          "tradition": "Tradição açoriana — origem cultural da ilha; sequência de camarão",
+          "highlight": "regional_acoriana"
+        }
+      ]
+    },
+    {
+      "slug": "manaus",
+      "name": "Manaus",
+      "state": "AM",
+      "lang_local": "pt-br",
+      "menu_label_en": "Manaus",
+      "venues": [
+        {
+          "slug": "banzeiro",
+          "name": "Banzeiro",
+          "type": "fine-dining",
+          "neighborhood": "Centro",
+          "tradition": "Chef Felipe Schaedler; alta gastronomia 100% amazônica; pirarucu, tucupi, jambu",
+          "highlight": "alta_gastronomia_amazonica"
+        },
+        {
+          "slug": "tambaqui-banda",
+          "name": "Tambaqui de Banda",
+          "type": "restaurant",
+          "neighborhood": "Adrianópolis",
+          "tradition": "Tambaqui assado na grelha, tradicional manauara",
+          "highlight": "regional_amazonica"
+        },
+        {
+          "slug": "caxiri",
+          "name": "Caxiri",
+          "type": "restaurant",
+          "neighborhood": "Centro",
+          "tradition": "Comida amazônica tradicional + influência indígena",
+          "highlight": "regional_indigena"
+        },
+        {
+          "slug": "mercado-adolpho-lisboa",
+          "name": "Mercado Municipal Adolpho Lisboa",
+          "type": "market",
+          "neighborhood": "Centro",
+          "tradition": "Art Nouveau de 1883; frutas amazônicas, peixe-boi (proibido) substituído por pirarucu fresco",
+          "highlight": "patrimonio_arquitetonico"
+        },
+        {
+          "slug": "moquem-do-banza",
+          "name": "Moquém do Banza",
+          "type": "restaurant",
+          "neighborhood": "Cidade Nova",
+          "tradition": "Peixe na folha de bananeira em forno de barro; tradição indígena",
+          "highlight": "regional_indigena"
+        }
+      ]
+    },
+    {
+      "slug": "belem",
+      "name": "Belém",
+      "state": "PA",
+      "lang_local": "pt-br",
+      "menu_label_en": "Belém do Pará",
+      "venues": [
+        {
+          "slug": "casa-do-saulo",
+          "name": "Casa do Saulo",
+          "type": "fine-dining",
+          "neighborhood": "Bairro do Comércio (Estação das Docas)",
+          "tradition": "Chef Saulo Jennings; comida paraense contemporânea; pirarucu e tucupi com técnica",
+          "highlight": "alta_gastronomia_paraense"
+        },
+        {
+          "slug": "manjar-das-garcas",
+          "name": "Manjar das Garças",
+          "type": "restaurant",
+          "neighborhood": "Mangal das Garças",
+          "tradition": "Vista do Rio Guamá; tacacá, maniçoba, vatapá paraense",
+          "highlight": "vista_regional"
+        },
+        {
+          "slug": "tacaca-tia-maria",
+          "name": "Tacacá da Tia Maria",
+          "type": "street-food",
+          "neighborhood": "Mercado Ver-o-Peso",
+          "tradition": "Tacacá em cuia de cabaça; ponto de encontro vesperal de Belém",
+          "highlight": "patrimonio_imaterial"
+        },
+        {
+          "slug": "la-em-casa",
+          "name": "Lá em Casa",
+          "type": "restaurant",
+          "neighborhood": "Estação das Docas",
+          "tradition": "Clássico paraense desde 1972; pato no tucupi; maniçoba",
+          "highlight": "regional_paraense_classica"
+        },
+        {
+          "slug": "point-do-acai",
+          "name": "Point do Açaí (Ver-o-Peso)",
+          "type": "street-food",
+          "neighborhood": "Ver-o-Peso",
+          "tradition": "Açaí puro com farinha d'água + peixe frito; café da manhã paraense",
+          "highlight": "patrimonio_imaterial"
+        },
+        {
+          "slug": "remanso-do-bosque",
+          "name": "Remanso do Bosque",
+          "type": "fine-dining",
+          "neighborhood": "Cidade Velha",
+          "tradition": "Chefs Thiago e Felipe Castanho; alta gastronomia amazônica; jardim botânico privado",
+          "highlight": "alta_gastronomia_amazonica"
+        }
+      ]
+    },
+    {
+      "slug": "curitiba",
+      "name": "Curitiba",
+      "state": "PR",
+      "lang_local": "pt-br",
+      "menu_label_en": "Curitiba",
+      "venues": [
+        {
+          "slug": "manu",
+          "name": "Manu",
+          "type": "fine-dining",
+          "neighborhood": "Batel",
+          "tradition": "Chef Manu Buffara; cozinha experimental brasileira; Best Female Chef LatAm 2022",
+          "highlight": "alta_gastronomia_feminina"
+        },
+        {
+          "slug": "bodebrown",
+          "name": "Cervejaria Bodebrown",
+          "type": "cervejaria",
+          "neighborhood": "Hauer",
+          "tradition": "Cervejaria artesanal pioneira no Brasil; tour + bar",
+          "highlight": "cerveja_artesanal"
+        },
+        {
+          "slug": "madalosso",
+          "name": "Madalosso",
+          "type": "restaurant",
+          "neighborhood": "Santa Felicidade",
+          "tradition": "Italiana coletiva — Guinness 'maior restaurante das Américas'; rodízio polenta + frango passarinho",
+          "highlight": "regional_italiana_imigracao"
+        },
+        {
+          "slug": "bar-stuart",
+          "name": "Bar Stuart",
+          "type": "boteco",
+          "neighborhood": "Centro",
+          "tradition": "Boteco tradicional curitibano desde 1937",
+          "highlight": "boteco_historico"
+        },
+        {
+          "slug": "barolo",
+          "name": "Barolo Trattoria",
+          "type": "restaurant",
+          "neighborhood": "Mossunguê",
+          "tradition": "Italiana clássica de Curitiba",
+          "highlight": "regional_italiana"
+        },
+        {
+          "slug": "mercadoteca",
+          "name": "Mercadoteca",
+          "type": "market",
+          "neighborhood": "Mercês",
+          "tradition": "Mercado gastronômico contemporâneo com produtores artesanais paranaenses",
+          "highlight": "mercado_contemporaneo"
+        }
+      ]
+    },
+    {
+      "slug": "porto-alegre",
+      "name": "Porto Alegre",
+      "state": "RS",
+      "lang_local": "pt-br",
+      "menu_label_en": "Porto Alegre",
+      "venues": [
+        {
+          "slug": "nb-steak",
+          "name": "NB Steak",
+          "type": "churrascaria",
+          "neighborhood": "Moinhos de Vento",
+          "tradition": "Churrascaria moderna de cortes nobres + carta de vinhos sul-brasileira",
+          "highlight": "churrasco_contemporaneo"
+        },
+        {
+          "slug": "galpao-criollo",
+          "name": "Galpão Crioulo",
+          "type": "churrascaria",
+          "neighborhood": "Parque Maurício Sirotsky Sobrinho",
+          "tradition": "Churrascaria + CTG show; tradição gaúcha turística",
+          "highlight": "churrasco_tradicao_ctg"
+        },
+        {
+          "slug": "majestic",
+          "name": "Café do Centro Cultural Majestic",
+          "type": "cafe",
+          "neighborhood": "Centro Histórico",
+          "tradition": "Edifício Belle Époque desde 1885; vista do Guaíba; pé de moleque + café",
+          "highlight": "patrimonio_belle_epoque"
+        },
+        {
+          "slug": "bar-do-goethe",
+          "name": "Bar do Goethe",
+          "type": "boteco",
+          "neighborhood": "Moinhos de Vento",
+          "tradition": "Boteco alemão-gaúcho; chopp + petisco; tradição imigração alemã RS",
+          "highlight": "regional_alemao"
+        },
+        {
+          "slug": "tonelero",
+          "name": "Bar Tonelero",
+          "type": "boteco",
+          "neighborhood": "Bom Fim",
+          "tradition": "Boteco icônico do bairro boêmio; conversa intelectual",
+          "highlight": "boteco_cultural"
+        },
+        {
+          "slug": "mercado-publico-poa",
+          "name": "Mercado Público",
+          "type": "market",
+          "neighborhood": "Centro Histórico",
+          "tradition": "Construção neoclássica de 1869; banca do peixe + sopa de feijão + Gambrinus (1889)",
+          "highlight": "patrimonio_mercado"
+        }
+      ]
+    }
+  ]
+}

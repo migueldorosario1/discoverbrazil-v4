@@ -1,0 +1,129 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import { SITE_TITLE } from '../../consts';
+import data from '../../data/bars_food_by_city.json';
+
+export function getStaticPaths() {
+	return data.cities.map((city) => ({
+		params: { city: city.slug },
+		props: { city },
+	}));
+}
+
+const { city } = Astro.props;
+const typeLabels = {
+	cafe: 'Cafe',
+	boteco: 'Boteco',
+	restaurant: 'Restaurant',
+	'fine-dining': 'Fine dining',
+	market: 'Market',
+	'street-food': 'Street food',
+	churrascaria: 'Churrascaria',
+	cervejaria: 'Brewery',
+	lanchonete: 'Snack bar',
+	deli: 'Deli',
+};
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead
+			title={`${city.menu_label_en} Food Guide | ${SITE_TITLE}`}
+			description={`Iconic restaurants, markets, cafes and botecos in ${city.name}, Brazil.`}
+		/>
+		<style>
+			main {
+				max-width: 1080px;
+			}
+			.back {
+				font-size: 0.95rem;
+			}
+			.kicker {
+				color: rgb(var(--gray));
+				font-size: 0.9rem;
+				font-weight: 700;
+				letter-spacing: 0;
+				text-transform: uppercase;
+			}
+			.summary {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 0.75rem;
+				margin: 1.5rem 0;
+			}
+			.pill {
+				border: 1px solid rgb(var(--gray-light));
+				border-radius: 999px;
+				background: #fff;
+				font-size: 0.95rem;
+				padding: 0.35rem 0.75rem;
+			}
+			.note {
+				border-left: 4px solid #27ae60;
+				color: rgb(var(--gray-dark));
+				margin: 2rem 0;
+				padding-left: 1rem;
+			}
+			.venue-list {
+				display: grid;
+				gap: 1rem;
+			}
+			.venue {
+				background: #fff;
+				border: 1px solid rgb(var(--gray-light));
+				border-radius: 8px;
+				padding: 1rem;
+			}
+			.venue h2 {
+				font-size: 1.25rem;
+				margin-bottom: 0.25rem;
+			}
+			.meta {
+				color: rgb(var(--gray));
+				font-size: 0.95rem;
+				margin: 0 0 0.5rem;
+			}
+			.tradition {
+				margin-bottom: 0;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<a class="back" href="/food">Back to Brazil Food Guide</a>
+			<section>
+				<div class="kicker">Brazil Food Guide</div>
+				<h1>{city.menu_label_en}</h1>
+				<p>Selected food stops in {city.name}, {city.state}, Brazil. This page is an editorial pre-launch curation.</p>
+				<div class="summary">
+					<span class="pill">{city.venues.length} venues</span>
+					<span class="pill">{city.state}, Brazil</span>
+				</div>
+			</section>
+
+			<p class="note">
+				This list is not an official registry. Opening hours, menus and operating status may change. Last review: May 2026.
+				Corrections can be sent to migueldorosario@gmail.com.
+			</p>
+
+			<section class="venue-list" aria-label={`${city.name} food venues`}>
+				{
+					city.venues.map((venue) => (
+						<article class="venue">
+							<h2>{venue.name}</h2>
+							<p class="meta">
+								{typeLabels[venue.type] || venue.type} · {venue.neighborhood}
+							</p>
+							<p class="tradition">{venue.tradition}</p>
+						</article>
+					))
+				}
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>
