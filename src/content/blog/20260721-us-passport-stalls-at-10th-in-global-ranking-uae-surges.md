@@ -3,7 +3,7 @@ title: "US Passport Stalls at 10th in Global Ranking; UAE Surges"
 description: "US passport ranks 10th in Henley Index, while UAE climbs. Mobility power shifts away from traditional leaders."
 pubDate: "2026-07-21"
 heroImage: "/hero/20260721-us-passport-stalls-at-10th-in-global-ranking-uae-surges.jpg"
-hero_credit: "Wikimedia Commons (Public domain) — Japanese Government Railways"
+hero_credit: "Wikimedia Commons (CC BY-SA 4.0) — Greenmoon"
 source_name: "The U.S. Passport Is Stuck, The UAE’s Is Gaining Fast"
 source_url: "https://skift.com/2026/07/21/the-u-s-passport-is-stuck-the-uaes-is-gaining-fast/"
 tags: ["passport ranking", "henley index", "us passport", "uae passport", "travel mobility", "visa-free travel"]
