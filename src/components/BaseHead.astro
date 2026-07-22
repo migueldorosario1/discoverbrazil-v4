@@ -56,6 +56,15 @@ const { title, description, image = FallbackImage } = Astro.props;
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={new URL(image.src, Astro.url)} />
 
+<!-- Google Analytics GA4 (instalado via agente V4) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LQWJ46DYVN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-LQWJ46DYVN');
+</script>
+
 <!-- Google AdSense -->
 <meta name="google-adsense-account" content="ca-pub-8991943608456423" />
 <!-- Google AdSense -->
