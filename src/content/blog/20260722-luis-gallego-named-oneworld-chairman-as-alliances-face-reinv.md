@@ -2,8 +2,8 @@
 title: "Luis Gallego Named oneworld Chairman as Alliances Face Reinvention"
 description: "IAG CEO Luis Gallego becomes oneworld chairman on Sept 1, 2026, succeeding Robert Isom. The alliance faces strategic challenges in a rapidly evolving aviat"
 pubDate: "2026-07-22"
-heroImage: "/hero/luis-gallego-named-oneworld-chairman-as-alliances-face-reinv.jpg"
-hero_credit: "Wikimedia Commons (CC BY-SA 4.0) — Chongkian"
+heroImage: "/hero/20260722-luis-gallego-named-oneworld-chairman-as-alliances-face-reinv.jpg"
+hero_credit: "Wikimedia Commons (CC BY-SA 3.0) — Carlos Delgado"
 source_name: "Luis Gallego Takes Leadership of oneworld at a Critical Time for Global Airline Alliances"
 source_url: "https://eturbonews.com/luis-gallego-oneworld-chairman-future-strategy/"
 tags: ["oneworld", "luis gallego", "airline alliances", "aviation", "iag", "travel industry"]
