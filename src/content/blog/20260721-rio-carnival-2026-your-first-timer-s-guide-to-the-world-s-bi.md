@@ -2,7 +2,7 @@
 title: "Rio Carnival 2026: Your First-Timer's Guide to the World's Biggest Party"
 description: "Everything you need to know about Rio Carnival 2026, from Sambadrome parades to street parties, according to GetYourGuide."
 pubDate: "2026-07-21"
-heroImage: "/hero/20260721-rio-carnival-2026-your-first-timer-s-guide-to-the-world-s-bi.jpg"
+heroImage: "/hero/rio-carnival-2026-your-first-timer-s-guide-to-the-world-s-bi.jpg"
 hero_credit: "Wikimedia Commons (Public domain) — Japanese Government Railways"
 source_name: "Rio Carnival 2026: First-Timer’s Guide"
 source_url: "https://www.getyourguide.com/explorer/rio-de-janeiro-ttd9/first-time-rio-carnival-guide/"

@@ -2,6 +2,8 @@
 title: "Belgium: A Small Nation with a Global Reach on Its National Day"
 description: "On July 21, Belgium celebrates its National Day. Discover how this small country punches above its weight in diplomacy, culture, and tourism."
 pubDate: "2026-07-22"
+heroImage: "/hero/belgium-a-small-nation-with-a-global-reach-on-its-national-d.jpg"
+hero_credit: "Wikimedia Commons (CC BY 2.0) — Dr Les (Leszek - Leslie) Sachs from Brussels, Belgium"
 source_name: "Belgium: The Small Country That Thinks Globally"
 source_url: "https://eturbonews.com/belgium-national-day-global-european-destination/"
 tags: ["belgium", "national day", "brussels", "travel", "culture", "europe"]
