@@ -2,6 +2,8 @@
 title: "Indian Hotels Eyes Switzerland and Southeast Asia After Frankfurt Debut"
 description: "IHCL plans expansion into Switzerland and Southeast Asia, with CEO citing strong India connectivity and long-overdue market entry."
 pubDate: "2026-07-22"
+heroImage: "/hero/indian-hotels-eyes-switzerland-and-southeast-asia-after-fran.jpg"
+hero_credit: "Wikimedia Commons (CC BY-SA 4.0) — iMahesh"
 source_name: "Indian Hotels Company Targets Switzerland and Southeast Asia; Dubai Rebound Stalls"
 source_url: "https://skift.com/2026/07/22/indian-hotels-company-targets-switzerland-and-southeast-asia-dubai-rebound-stalls/"
 tags: ["ihcl", "indian hotels", "switzerland", "southeast asia", "frankfurt", "hospitality expansion"]
