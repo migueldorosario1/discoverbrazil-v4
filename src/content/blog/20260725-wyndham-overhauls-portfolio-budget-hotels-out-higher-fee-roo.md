@@ -3,7 +3,7 @@ title: "Wyndham Overhauls Portfolio: Budget Hotels Out, Higher-Fee Rooms In"
 description: "Wyndham Hotels is swapping lower-fee economy rooms for higher-fee midscale properties, keeping U.S. room count flat at 501,100."
 pubDate: "2026-07-25"
 heroImage: "/hero/wyndham-overhauls-portfolio-budget-hotels-out-higher-fee-roo.jpg"
-hero_credit: "Wikimedia Commons (CC BY-SA 4.0) — Chongkian"
+hero_credit: "Photo by Pix-Off on Pixabay"
 source_name: "Wyndham’s Portfolio Overhaul: Budget Hotels Are Out, Higher Fees Are In"
 source_url: "https://skift.com/2026/07/23/wyndhams-portfolio-overhaul-budget-hotels-are-out-higher-fees-are-in/"
 tags: ["wyndham", "hotels", "portfolio", "economy", "midscale", "feepar"]

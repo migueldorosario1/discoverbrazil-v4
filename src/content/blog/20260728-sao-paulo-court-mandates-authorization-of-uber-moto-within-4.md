@@ -3,7 +3,7 @@ title: "São Paulo Court Mandates Authorization of Uber Moto Within 48 Hours"
 description: "Latest legal development in São Paulo could see Uber Moto return to Brazil's largest city amid ongoing regulatory battle."
 pubDate: "2026-07-28"
 heroImage: "/hero/sao-paulo-court-mandates-authorization-of-uber-moto-within-4.jpg"
-hero_credit: "Photo by Pexels on Pixabay"
+hero_credit: "Photo by joelfotos on Pixabay"
 source_name: "Uber Moto São Paulo Must Launch in 48 Hours, Brazil Court Rules"
 source_url: "https://www.riotimesonline.com/uber-moto-sao-paulo-court-order-authorization/"
 tags: ["uber moto", "sao paulo", "regulatory battle", "transportation", "brazil"]

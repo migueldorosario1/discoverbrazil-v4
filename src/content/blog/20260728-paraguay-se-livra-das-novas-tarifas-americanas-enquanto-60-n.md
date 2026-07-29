@@ -3,7 +3,7 @@ title: "Paraguay se livra das novas tarifas americanas enquanto 60 nações enfr
 description: "No novo ciclo de tarifas dos EUA, Paraguai é a única nação do Mercosul isentada das novas alíquotas de 10% a 12,5%."
 pubDate: "2026-07-28"
 heroImage: "/hero/paraguay-se-livra-das-novas-tarifas-americanas-enquanto-60-n.jpg"
-hero_credit: "Photo by FotografieLink on Pixabay"
+hero_credit: "Photo by Ann H on Pexels"
 source_name: "Paraguay Escapes US Tariffs as 60 Nations Face New Duties"
 source_url: "https://www.riotimesonline.com/paraguay-us-tariff-exemption-july-2026/"
 tags: ["comércio internacional", "tarifas", "paraguai", "eua", "força de trabalho"]

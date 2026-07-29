@@ -3,7 +3,7 @@ title: "Xixuaú: Community Ecotourism in the Heart of the Amazon"
 description: "Discover Xixuaú, a WWF-certified community ecotourism destination in the Amazon rainforest, offering pristine nature and local culture."
 pubDate: "2026-07-21"
 heroImage: "/hero/xixuau-community-ecotourism-in-the-heart-of-the-amazon.jpg"
-hero_credit: "Wikimedia Commons (CC BY-SA 2.0) — Bob Henricks from Charlottesville, United States"
+hero_credit: "Photo by hasogr on Pixabay"
 source_name: "Amazon Forest Ecotourism Xixuau Brazil"
 source_url: "https://www.amazontrip.info/web/en/amazon-ecotourism/"
 tags: ["xixuaú", "amazon ecotourism", "community-based tourism", "rio jauaperi", "wwf", "brazil travel"]
