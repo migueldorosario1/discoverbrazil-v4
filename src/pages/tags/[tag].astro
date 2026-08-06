@@ -9,10 +9,11 @@ import { SITE_DESCRIPTION } from '../../consts';
 
 export async function getStaticPaths() {
 	const allPosts = await getCollection('blog');
-	const uniqueTags = [...new Set(allPosts.map((post) => post.data.tags || []).flat())];
+	const _slugTag = (t) => String(t).replace(/[/#?\\]+/g, '-').replace(/^-+|-+$/g, '').trim(); // tag com barra quebrava o build (bug 06/08 GSN 'hiv/aids')
+	const uniqueTags = [...new Set(allPosts.map((post) => post.data.tags || []).flat().map(_slugTag).filter(Boolean))];
 	
 	return uniqueTags.map((tag) => {
-		const filteredPosts = allPosts.filter((post) => post.data.tags?.includes(tag));
+		const filteredPosts = allPosts.filter((post) => (post.data.tags || []).map(_slugTag).includes(tag));
 		return {
 			params: { tag },
 			props: { posts: filteredPosts },
