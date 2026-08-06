@@ -16,6 +16,14 @@
         "description": "Discover the schedule for Rio Carnival 2027, including Sambadrome parades, samba school competitions, and how to get tickets."
     },
     {
+        "kicker": "Travel",
+        "author": "Discover Brazil Desk",
+        "title": "Expedia Bolsters AI Capabilities with Acquisition of Layla",
+        "url": "/blog/20260805-expedia-bolsters-ai-capabilities-with-acquisition-of-layla/",
+        "hero": "/hero/expedia-bolsters-ai-capabilities-with-acquisition-of-layla.jpg",
+        "description": "Expedia announces the acquisition of Berlin-based AI trip-planning startup Layla, enhancing its AI capabilities."
+    },
+    {
         "kicker": "Regions",
         "author": "Discover Brazil Desk",
         "title": "Rio de Janeiro for first-time visitors: beaches, viewpoints and city life",
@@ -30,13 +38,5 @@
         "url": "/blog/brazil-travel-planning-basics/",
         "hero": "/hero/brazil-tourism-fair.jpg",
         "description": "Brazil is continental in scale. A good itinerary starts by choosing a region, matching the season and leaving room for slower travel."
-    },
-    {
-        "kicker": "Experiences",
-        "author": "Discover Brazil Desk",
-        "title": "PlanetaEXO reveals 15 ecotourism destinations in Brazil for 2026",
-        "url": "/blog/20260629-planetaexo-reveals-15-ecotourism-destinations-in-brazil-for-2026/",
-        "hero": "/hero/planetaexo-reveals-15-ecotourism-destinations-in-brazil-for-2026.jpg",
-        "description": "A list of 15 ecotourism destinations across Brazil's biomes has been released by PlanetaEXO for 2026, featuring iconic places like Lençóis Maranhenses, Chapada Diamantina, and the Pantanal."
     }
 ]
