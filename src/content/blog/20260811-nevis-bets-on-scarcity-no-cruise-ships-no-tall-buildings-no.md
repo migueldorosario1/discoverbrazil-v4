@@ -3,8 +3,8 @@ title: "Nevis Bets on Scarcity: No Cruise Ships, No Tall Buildings, No Traffic L
 description: "Nevis builds tourism on refusal: no cruise ships, no tall buildings, no fast food. Now it invests in a private jet facility and direct US flights."
 pubDate: "2026-08-11"
 heroImage: "/hero/nevis-bets-on-scarcity-no-cruise-ships-no-tall-buildings-no.jpg"
-hero_credit: "Photo by MustangJoe on Pixabay"
-hero_legenda: "beach, nature, sea, ocean, tropical, tropical island, sky, clouds, horizon, seascape, dominican republic, caribbean, summer, water, palm trees, sand, vacation, travel, coast, tourism, sunrise"
+hero_credit: "Photo by Schäferle on Pixabay"
+hero_legenda: "island, vacations, caribbean, palm trees, sand, sea, blue, quiet, beach, lonely, small, landscape, coast, water, nature, summer, island, island, island, island, island"
 source_name: "How Nevis Built a Tourism Strategy Around Refusal"
 source_url: "https://skift.com/2026/08/07/how-nevis-built-a-tourism-strategy-around-refusal/"
 tags: ["nevis", "caribbean", "tourism-strategy", "luxury-travel", "sustainable-tourism"]
