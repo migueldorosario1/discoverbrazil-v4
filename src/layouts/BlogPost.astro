@@ -66,6 +66,27 @@ const { title, description, pubDate, updatedDate, heroImage, hero_legenda, hero_
 				font-style: italic;
 			}
 		</style>
+		<script type="application/ld+json" set:html={JSON.stringify({
+			"@context": "https://schema.org",
+			"@type": "NewsArticle",
+			"headline": title,
+			"image": heroImage ? [new URL(heroImage, Astro.url).href] : [],
+			"datePublished": pubDate.toISOString(),
+			"dateModified": updatedDate ? updatedDate.toISOString() : pubDate.toISOString(),
+			"author": [{
+				"@type": "Organization",
+				"name": "Discover Brazil",
+				"url": "https://www.discoverbrazil.news"
+			}],
+			"publisher": {
+				"@type": "Organization",
+				"name": "Discover Brazil",
+				"logo": {
+					"@type": "ImageObject",
+					"url": new URL('/favicon.png', Astro.url).href
+				}
+			}
+		})} />
 	</head>
 
 	<body>
