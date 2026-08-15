@@ -3,8 +3,8 @@ title: "Cancún at 50: What Brazil Can Learn From Mexico's Engineered Tourism Su
 description: "Mexico's bank-built Cancún turned a sandbar into a tourism giant. Discover the five-step model and its lessons for Brazil's destinations."
 pubDate: "2026-08-15"
 heroImage: "/hero/cancun-at-50-what-brazil-can-learn-from-mexico-s-engineered.jpg"
-hero_credit: "Photo by Liliana Dawson on Pexels"
-hero_legenda: "Cancún at 50: What Brazil Can Learn From Mexico's Engineered Tourism Success"
+hero_credit: "Photo by Udayjot on Pixabay"
+hero_legenda: "sea, ocean, beach, aerial view, summer, vacation, nature, travel, outdoors, aerial photography"
 source_name: "The Lessons of Cancún, Fifty Years Later"
 source_url: "https://skift.com/2026/08/11/the-lessons-of-cancun-fifty-years-later/"
 tags: ["cancun", "tourism-development", "mexico", "brazil", "destination-planning", "air-access"]
