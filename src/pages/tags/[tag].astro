@@ -53,7 +53,7 @@ const meta = regionMap[tag] || { title: 'Região do Estado', subtitle: tag.split
 <!doctype html>
 <html lang="pt-br">
 	<head>
-		<BaseHead title={`${meta.subtitle} - Rio Carta`} description={`Notícias sobre ${meta.subtitle}`} />
+		<BaseHead title={`${meta.subtitle} - Rio Carta`} description={`Notícias sobre ${meta.subtitle}`} noindex />
 		<style define:vars={{ bgGradient: meta.color }}>
 			main {
 				width: 960px;

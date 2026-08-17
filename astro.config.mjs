@@ -6,7 +6,15 @@ import { defineConfig, fontProviders } from 'astro/config';
 
 export default defineConfig({
 	site: 'https://www.discoverbrazil.news',
-	integrations: [mdx(), sitemap()],
+		integrations: [
+		mdx(),
+		sitemap({
+			filter: (page) => {
+				const path = new URL(page).pathname;
+				return !/(^|\/)(tags|teste|preview)(\/|-|$)/.test(path);
+			},
+		}),
+	],
 	fonts: [
 		{
 			provider: fontProviders.local(),
