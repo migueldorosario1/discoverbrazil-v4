@@ -10,6 +10,7 @@ import Interlinks from '../components/Interlinks.astro';
 type Props = CollectionEntry<'blog'>['data'];
 
 const { title, description, pubDate, updatedDate, heroImage, hero_legenda, hero_credit } = Astro.props;
+import BannerMoka from '../components/BannerMoka.astro';
 ---
 
 <html lang="en">
@@ -118,6 +119,8 @@ const { title, description, pubDate, updatedDate, heroImage, hero_legenda, hero_
 						<hr />
 					</div>
 					<slot />
+
+<BannerMoka />
 				</div>
 				<div class="prose" style="padding-top: 0;">
 					<Interlinks />
