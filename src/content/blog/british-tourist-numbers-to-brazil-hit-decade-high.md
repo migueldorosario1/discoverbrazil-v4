@@ -9,6 +9,7 @@ lang: "en"
 author: "Discover Brazil Staff"
 draft: false
 heroImage: "/hero/british-tourist-numbers-to-brazil-hit-decade-high.jpg"
+hero_credit: "Wilfredor / Wikimedia Commons (CC0)"
 ---
 
 British tourist numbers to Brazil have reached a decade high, Travel Daily Media reports.

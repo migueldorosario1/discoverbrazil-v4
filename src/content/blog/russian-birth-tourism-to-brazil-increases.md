@@ -9,6 +9,7 @@ lang: "en"
 author: "Discover Brazil Staff"
 draft: false
 heroImage: "/hero/russian-birth-tourism-to-brazil-increases.jpg"
+hero_credit: "Wilfredor / Wikimedia Commons (CC0)"
 ---
 
 Russian birth tourism to Brazil is increasing, according to DW.com.
