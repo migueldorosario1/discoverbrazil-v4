@@ -8,6 +8,7 @@ tags: ["discoverbrazil"]
 lang: "en"
 author: "Discover Brazil Staff"
 draft: false
+heroImage: "/hero/g-adventures-wraps-gx-cambodia-with-brazil-reveal-new-tourism-framewor.jpg"
 ---
 
 G Adventures wrapped up its GX Cambodia event with a Brazil reveal, a new tourism framework and product updates, PAXnews.com reported.

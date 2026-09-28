@@ -8,6 +8,7 @@ tags: ["discoverbrazil"]
 lang: "en"
 author: "Discover Brazil Staff"
 draft: false
+heroImage: "/hero/brazil-targets-football-fans-with-2027-tourism-push.jpg"
 ---
 
 Brazil has launched a tourism push aimed at football fans, TravelMole reported.
